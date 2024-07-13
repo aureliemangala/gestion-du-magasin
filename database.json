@@ -1,0 +1,38 @@
+[
+ {
+  "idArticle": 1,
+  "nomArt": "DDDD",
+  "prixArt": 3333.0,
+  "qte": 3
+ },
+ {
+  "idArticle": 1,
+  "nomArt": "FFF",
+  "prixArt": 5000.0,
+  "qte": 5
+ },
+ {
+  "idArticle": 4,
+  "nomArt": "lol",
+  "prixArt": 9000.0,
+  "qte": 9
+ },
+ {
+  "idArticle": 1,
+  "nomArt": "cccc",
+  "prixArt": 50000.0,
+  "qte": 9
+ },
+ {
+  "idArticle": 1,
+  "nomArt": "bonjour",
+  "prixArt": 6000.0,
+  "qte": 5
+ },
+ {
+  "idArticle": 1,
+  "nomArt": "veste",
+  "prixArt": 5000.0,
+  "qte": 8
+ }
+]
